@@ -1,0 +1,14 @@
+.bg-orange{
+    background-color: #fceae8;
+}
+.h1-price{
+    color: #FF136F;
+    font-weight: 700;
+}
+.btn-color{
+    background-color: #FF136F;
+    padding: 5px 15px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
