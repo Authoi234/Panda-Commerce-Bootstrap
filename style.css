@@ -5,10 +5,14 @@
     color: #FF136F;
     font-weight: 700;
 }
-.btn-color{
-    background-color: #FF136F;
-    padding: 9px 19px;
-    color: white;
+.panda-btn-color{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
     border: none;
-    border-radius: 5px;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.categories img{
+    width: 100px;
 }
